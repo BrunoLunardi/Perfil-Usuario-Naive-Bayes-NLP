@@ -1,18 +1,6 @@
-selected_text,sentiment,emotion
-last session of the day  ,neutral,sadness
-exciting,positive,joy
-happy bday,positive,joy
-and within a short time of the last clue all of them,negative,sadness
-what did you get  my day is alright havent done anything yet leaving soon to my stepsister though,negative,sadness
-my bike was put on holdshould have known that argh total bummer,negative,fear
-i checked  we didnt win,negative,joy
- and youre on twitter did the tavern bore you that much,negative,sadness
-i feel like my phones hole is not a virgin thats how loose it is ,negative,sadness
-im going into a spiritual stagnentation its exploding my ego i now realise im not all that great and im ok with that,positive,joy
-my dead grandpa pays more attention to me than you do,negative,sadness
-about to go to sleep,neutral,fear
-thats so cool,positive,joy
-hey peoples dont you just hate being grounded haha im just sat eating an apple and watching death note some anime,negative,sadness
-huh another scarepoint coding sunday,neutral,joy
-look who i found just for you    ,positive,joy
-no ac the fan doesnt swing our way  we are sweating it out on a hot humid day,negative,joy
+comments,sentiment_keyword_json
+"Oh God, I'm not even a sonic fan and this looks terrible.","{'usage': {'text_units': 1, 'text_characters': 57, 'features': 2}, 'sentiment': {'document': {'score': -0.99281, 'label': 'negative'}}, 'language': 'en', 'emotion': {'document': {'emotion': {'sadness': 0.548128, 'joy': 0.026054, 'fear': 0.144499, 'disgust': 0.391919, 'anger': 0.224453}}}}"
+"Here before the ""Who came here after the new trailer"" storm.","{'usage': {'text_units': 1, 'text_characters': 60, 'features': 2}, 'sentiment': {'document': {'score': -0.56267, 'label': 'negative'}}, 'language': 'en', 'emotion': {'document': {'emotion': {'sadness': 0.126576, 'joy': 0.256092, 'fear': 0.486402, 'disgust': 0.031446, 'anger': 0.085979}}}}"
+Look at how they massacred my boy.,"{'usage': {'text_units': 1, 'text_characters': 34, 'features': 2}, 'sentiment': {'document': {'score': -0.686277, 'label': 'negative'}}, 'language': 'en', 'emotion': {'document': {'emotion': {'sadness': 0.232037, 'joy': 0.169147, 'fear': 0.01624, 'disgust': 0.45825, 'anger': 0.044714}}}}"
+1:11 internet reaction to this,"{'usage': {'text_units': 1, 'text_characters': 30, 'features': 2}, 'sentiment': {'document': {'score': 0, 'label': 'neutral'}}, 'language': 'en', 'emotion': {'document': {'emotion': {'sadness': 0.28548, 'joy': 0.079628, 'fear': 0.077388, 'disgust': 0.177162, 'anger': 0.301547}}}}"
+I start to think we live in the wrong universe where this is allowed to exist.,"{'usage': {'text_units': 1, 'text_characters': 78, 'features': 2}, 'sentiment': {'document': {'score': 0, 'label': 'neutral'}}, 'language': 'en', 'emotion': {'document': {'emotion': {'sadness': 0.207544, 'joy': 0.235185, 'fear': 0.226899, 'disgust': 0.192842, 'anger': 0.189864}}}}"
